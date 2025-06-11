@@ -34,7 +34,7 @@
 
 ![App Screenshot](https://utfs.io/f/8d8DWWhM1OVpEQc6ODgWBJngQtDy3KfqYPmev21X0b4sdiAz)
 
-## Technologies we used
+## Technologies used
 
 - Nextjs
 - Gemini 1.5 Flash
