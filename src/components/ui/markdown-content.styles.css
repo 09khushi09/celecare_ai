@@ -1,0 +1,41 @@
+.markdown-container {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.markdown-container h2 {
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+.markdown-container ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.markdown-container p {
+  margin: 10px 0;
+}
+
+.markdown-container table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.markdown-container th {
+  background-color: var(--app-primary);
+  color: var(--app-primary-foreground);
+  border: 1px solid var(--border);
+  padding: 10px 20px;
+}
+
+.markdown-container td {
+  padding: 10px 20px;
+}
+
+.markdown-container tr:nth-child(even) {
+  background-color: var(--table-nth-child);
+}
